@@ -1,0 +1,8 @@
+name: TestPlugin
+main: luc.plugin.Main
+version: "0.1"
+commands:
+  test:
+    description: Test Command
+    usage: /test
+    aliases: [test, first]
